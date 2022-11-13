@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "directories": {
+    "lib": "src"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nbx-core/config-manager.git"
