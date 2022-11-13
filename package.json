@@ -1,0 +1,24 @@
+{
+  "name": "nbx-core-config-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbx-core/config-manager.git"
+  },
+  "keywords": [
+    "nbx",
+    "core",
+    "config manager"
+  ],
+  "author": "Unblax-developer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbx-core/config-manager/issues"
+  },
+  "homepage": "https://github.com/nbx-core/config-manager#readme"
+}
